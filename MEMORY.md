@@ -10,3 +10,9 @@
 
 ### Gotchas
 - Original repository is under `nero-ai-consulting`, but authentication access is available for the `bdredz` account. Cloned public repository and pushed to a new repository on the `bdredz` account to enable Vercel git integration.
+
+## 2026-05-24 — Update Browser Tab Title
+
+### What changed
+- Changed browser tab title from "My Google AI Studio App" to "Dreamable Digital" in `index.html`.
+
