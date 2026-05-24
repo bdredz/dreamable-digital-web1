@@ -1,0 +1,6 @@
+{
+  "name": "Dreamable Digital",
+  "description": "Right Time, Right Place Leads - predictive real estate seller leads. Reach high-probability listing home sellers before they enter the target market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
