@@ -16,6 +16,10 @@
 ### What changed
 - Changed browser tab title from "My Google AI Studio App" to "Dreamable Digital" in `index.html`.
 - Added Open Graph and Twitter Card metadata tags in `index.html` to enable rich social previews.
-- Generated and placed a high-fidelity brand preview image at `public/social-preview.png`.
+- Generated and placed a high-fidelity brand preview image at `public/social-preview.png` incorporating the exact client cloud logo.
+- Created `public/logo.svg` representing the client's vector cloud logo.
+- Configured `index.html` to use `public/logo.svg` as the browser favicon so that the logo displays in the browser tab.
+- Created `public/logo.png` representing the square client logo.
+
 
 
